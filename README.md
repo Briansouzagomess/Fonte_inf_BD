@@ -1,6 +1,5 @@
-# Fonte_inf_BD
-Repositório para Atividades dessa disciplina 
-
+# Fonte_inf_BD 
+# Análise de dados
 <img width="1212" height="691" alt="image" src="https://github.com/user-attachments/assets/75515474-cac4-4926-8386-05af0b945808" />
 <img width="671" height="630" alt="image" src="https://github.com/user-attachments/assets/9f7d4695-d5e0-4281-b5b6-f3f2c34b1310" />
 <img width="1415" height="797" alt="image" src="https://github.com/user-attachments/assets/fc856cfe-117e-455f-b595-c93be04d954b" />
