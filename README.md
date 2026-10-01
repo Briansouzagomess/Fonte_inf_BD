@@ -8,3 +8,6 @@
 
 <img width="1415" height="797" alt="image" src="https://github.com/user-attachments/assets/fc856cfe-117e-455f-b595-c93be04d954b" />
 
+# Análise Dashboard
+
+<img width="1430" height="802" alt="image" src="https://github.com/user-attachments/assets/60da7afa-629f-4ded-864e-73f71fdf7bd9" />
