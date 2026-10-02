@@ -42,6 +42,10 @@
 | **📊 Dashboard de Vendas e Operações** | Análise completa de indicadores de desempenho operacionais e financeiros. | Power BI, Excel, DAX |
 | **📦 Controle de Produção e Estoque** | Automação e tratamento de dados para otimização de fluxos industriais. | Excel Avançado, Power Query |
 
+
+
+git reset --hard HEAD~1
+
 ---
 
 <div align="center">
