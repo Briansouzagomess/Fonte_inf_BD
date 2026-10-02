@@ -1,56 +1,42 @@
-# Olá, eu sou o Brian! 👋
+# 📚 Estudos em Banco de Dados - FATEC SJC
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D2FF&center=true&vCenter=true&width=500&lines=Aprendiz+na+Bosch+Home+Comfort;Estudante+de+GPI+na+FATEC;Power+BI+%26+Excel" alt="Typing SVG" />
-</div>
+Olá! Meu nome é **Brian**. Sou estudante de **Gestão da Produção Industrial (GPI)** na FATEC São José dos Campos e trabalho como Jovem Aprendiz na Engenharia de Processos da Bosch Home Comfort.
 
 ---
 
-### 🚀 Sobre Mim
+## 🎯 Sobre este Repositório
 
-- 🎓 **Educação:** 22 anos, cursando **Gestão da Produção Industrial (GPI)** na **FATEC**.
-- 💼 **Experiência Atual:** Aprendiz na **Bosch Home Comfort**, aplicando análise de dados e foco na otimização de processos industriais.
-- 🪖 **Background Profissional:**
-  - Servindo durante **3 anos na Aeronáutica**, onde desenvolvi disciplina, trabalho sob pressão e liderança.
-  - Atuei durante **1 ano como Porteiro Hospitalar**, lidando diretamente com gestão de fluxo, atendimento e resolução ágil de problemas.
-- 🔄 **Perfil e Resiliência:** Sou uma pessoa movida a desafios, que **gosta de mudanças e se adapta com facilidade** a novos ambientes e processos.
-- 📊 **Especialidades:** Construção de dashboards interativos no **Power BI**, automação e tratamento de dados no **Excel**, além de análise e extração de indicadores.
+Criei este espaço especificamente para organizar e documentar meu avanço na disciplina de **Banco de Dados** da faculdade. 
+
+> **Aviso de Aprendiz:** 🚧 Eu não sou desenvolvedor e não sou especialista em Banco de Dados! Meu foco de carreira é na engenharia de processos, gestão industrial e análise de dados (Excel/Power BI). Estou dando meus primeiros passos em modelagem e SQL, então este repositório é, literalmente, o meu caderno aberto de estudos, testes e (muitos) erros e acertos. 😄
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+## 📂 O que vou colocar aqui?
+
+Conforme as aulas forem avançando, vou atualizar este repositório com:
+- 📝 **Exercícios e Práticas:** Scripts de criação de tabelas e consultas SQL básicas.
+- 📊 **Modelagem de Dados:** Estruturação de dados relacionais para resolver problemas de negócios.
+- 🔗 **Projetos Acadêmicos:** Projetos práticos conectando bancos de dados com cenários reais de logística e produção (semelhante às análises de transporte multimodal da ANTT).
+
+---
+
+## 🛠️ Tecnologias e Ferramentas em Estudo
 
 <div align="left">
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+  <!-- Adicione ou remova as tecnologias conforme o que o seu professor estiver ensinando -->
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" />
-
----
-
-### 📈 Estatísticas do GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Briansouzagomess&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Briansouzagomess&layout=compact&theme=tokyonight&hide=html,css"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </div>
 
 ---
 
-### 📂 Principais Projetos
+## 🤝 Feedbacks são bem-vindos!
 
-| Projeto | Descrição | Tecnologias |
-| :--- | :--- | :--- |
-| **📊 Dashboard de Vendas e Operações** | Análise completa de indicadores de desempenho operacionais e financeiros. | Power BI, Excel, DAX |
-| **📦 Controle de Produção e Estoque** | Automação e tratamento de dados para otimização de fluxos industriais. | Excel Avançado, Power Query |
+Se você é da área de TI ou domina Banco de Dados e esbarrar neste repositório, sinta-se à vontade para me dar dicas. Todo conhecimento que ajude a otimizar processos é muito bem-vindo!
 
-
-
-git reset --hard HEAD~1
-
----
-
-<div align="center">
-  <p>📬 <i>Entre em contato comigo para trocarmos uma ideia sobre dados, processos e oportunidades!</i></p>
-</div>
+📬 **Conecte-se comigo:** [Meu LinkedIn](LINK_DO_SEU_LINKEDIN_AQUI)
 # Fonte_inf_BD 
 # Apresentação em Grupo
 <img width="1212" height="691" alt="image" src="https://github.com/user-attachments/assets/75515474-cac4-4926-8386-05af0b945808" />
