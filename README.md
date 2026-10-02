@@ -12,7 +12,7 @@
 
 <br>
 
-> 💡 **Nota do Autor:** Olá! Sou o **Brian**, tenho 22 anos, sou acadêmico de **Gestão da Produção Industrial (GPI)** na FATEC e atuo como jovem aprendiz na Engenharia de Processos da **Bosch Home Comfort**. **Não sou desenvolvedor de software de formação.** Meu universo é a gestão, otimização de processos industriais e análise de dados (Power BI e Excel). Criei este espaço para documentar meus primeiros passos no mundo dos Bancos de Dados, saindo da zona de conforto para aprender como estruturar informações direto na fonte! 
+> 💡 **Nota do Autor:** Olá! Sou o **Brian**, tenho 22 anos, sou acadêmico de **Gestão da Produção Industrial (GPI)** na FATEC e atuo como jovem aprendiz na Engenharia de Processos da **Bosch Home Comfort**. **Não sou desenvolvedor de software de formação.** Meu universo é a gestão, otimização de processos industriais e análise de dados (Power BI e Excel). Criei este espaço para documentar meus primeiros passos no mundo dos Bancos de Dados, e mostrar um pouco das minhas primeiras análises de dados e dashboards.
 
 ---
 
