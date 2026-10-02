@@ -1,3 +1,57 @@
+# # Olá, eu sou o Brian! 👋
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D2FF&center=true&vCenter=true&width=500&lines=Analista+de+Dados;Estudante+de+GPI+na+FATEC;Aprendiz+na+Bosch+Home+Comfort;Especialista+em+Power+BI+%26+Excel" alt="Typing SVG" />
+</div>
+
+---
+
+### 🚀 Sobre Mim
+
+- 🎓 **Educação:** 22 anos, cursando **Gestão da Produção Industrial (GPI)** na **FATEC**.
+- 💼 **Experiência Atual:** Aprendiz na **Bosch Home Comfort**, aplicando conceitos de análise de dados no setor industrial.
+- 🎯 **Foco de Carreira:** Análise de Dados, BI (Business Intelligence) e Otimização de Processos.
+- 📊 **Especialidades:** Construção de dashboards interativos no **Power BI**, tratamento e automação de dados no **Excel**, além de extração e manipulação de bases de dados.
+
+---
+
+### 🛠️ Tecnologias e Ferramentas
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</div>
+
+---
+
+### 📈 Estatísticas do GitHub
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=tokyonight&hide=html,css"/>
+</div>
+
+---
+
+### 📂 Principais Projetos no Repositório
+
+| Projeto | Descrição | Tecnologias |
+| :--- | :--- | :--- |
+| ** Dashboard de Vendas e Operações** | Análise completa de indicadores de desempenho operacionais e financeiros. | Power BI, Excel, DAX |
+| ** Controle de Produção e Estoque** | Automação e tratamento de dados para otimização de fluxos industriais. | Excel Avançado, Power Query |
+
+---
+
+<div align="center">
+  <p>📬 <i>Entre em contato comigo no LinkedIn para trocarmos uma ideia!</i></p>
+</div>
+
+
+
+
 # Fonte_inf_BD 
 # Apresentação em Grupo
 <img width="1212" height="691" alt="image" src="https://github.com/user-attachments/assets/75515474-cac4-4926-8386-05af0b945808" />
