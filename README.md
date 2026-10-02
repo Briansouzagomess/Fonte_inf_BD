@@ -1,7 +1,7 @@
 # Olá, eu sou o Brian! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D2FF&center=true&vCenter=true&width=500&lines=Analista+de+Dados;Aprendiz+na+Bosch+Home+Comfort;Estudante+de+GPI+na+FATEC;Especialista+em+Power+BI+%26+Excel" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D2FF&center=true&vCenter=true&width=500&lines=Aprendiz+na+Bosch+Home+Comfort;Estudante+de+GPI+na+FATEC;Power+BI+%26+Excel" alt="Typing SVG" />
 </div>
 
 ---
