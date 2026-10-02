@@ -47,11 +47,10 @@ Mesmo focado na engenharia de processos, estou explorando as seguintes tecnologi
 Aqui está o meu roteiro de aprendizado para este semestre:
 
 - [x] Configuração do repositório e ambiente de estudos.
-- [ ] Entendimento de Entidades, Atributos e Relacionamentos.
-- [ ] Normalização de Dados (1FN, 2FN, 3FN).
-- [ ] Criação do primeiro banco de dados (CREATE, ALTER, DROP).
-- [ ] Inserção e manipulação de registros (INSERT, UPDATE, DELETE).
-- [ ] Consultas básicas e avançadas (SELECT, JOINs, GROUP BY).
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
 - [ ] Projeto Final da Disciplina.
 
 ---
