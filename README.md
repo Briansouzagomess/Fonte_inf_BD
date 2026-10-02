@@ -61,7 +61,7 @@ Aqui está o meu roteiro de aprendizado para este semestre:
 Qualquer dica técnica, correção de código ou sugestão de melhoria é extremamente bem-vinda! Se você é da área de dados ou TI, fique à vontade para abrir uma *Issue* ou me mandar uma mensagem.
 
 <div align="center">
-  <a href="URL_DO_SEU_LINKEDIN_AQUI" target="_blank">
+  <a href="https://www.linkedin.com/in/brian-luiz-503025214?utm_source=share_via&utm_content=profile&utm_medium=member_ios" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:SEU_EMAIL_AQUI" target="_blank">
