@@ -73,7 +73,7 @@ Qualquer dica técnica, correção de código ou sugestão de melhoria é extrem
 
 Se você é da área de TI ou domina Banco de Dados e esbarrar neste repositório, sinta-se à vontade para me dar dicas. Todo conhecimento que ajude a otimizar processos é muito bem-vindo!
 
-📬 **Conecte-se comigo:** [Meu LinkedIn](LINK_DO_SEU_LINKEDIN_AQUI)
+📬 **Conecte-se comigo:** [Meu LinkedIn](brian-luiz-503025214?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
 # Fonte_inf_BD 
 # Apresentação em Grupo
 <img width="1212" height="691" alt="image" src="https://github.com/user-attachments/assets/75515474-cac4-4926-8386-05af0b945808" />
