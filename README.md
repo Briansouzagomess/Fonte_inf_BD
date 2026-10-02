@@ -1,13 +1,13 @@
 <div align="center">
-  <!-- Imagem Sci-Fi Gerada -->
-  <img src="watermarked_img_1846557533059647138.jpg" alt="Capa Sci-Fi Banco de Dados" width="850" style="border-radius: 15px; box-shadow: 0 0 20px rgba(0, 191, 255, 0.6);"/>
+  <!-- Imagem Sci-Fi Nova -->
+  <img src="" alt="Capa Sci-Fi Banco de Dados" width="900" style="border-radius: 15px; box-shadow: 0 0 25px rgba(0, 191, 255, 0.8);"/>
   <br><br>
 
   <h1>✨ 🗄️ Banco de Dados ✨</h1>
   
   <!-- Subtítulo com Efeito de Digitação (Blinking/Typing) -->
   <p>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=005C84&center=true&vCenter=true&width=600&lines=Reposit%C3%B3rio+acad%C3%AAmico+focado+em+Banco+de+Dados;Modelagem+e+An%C3%A1lise+Relacional;Otimiza%C3%A7%C3%A3o+de+Processos+Industriais" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Reposit%C3%B3rio+acad%C3%AAmico+focado+em+Banco+de+Dados;Modelagem+e+An%C3%A1lise+Relacional;Otimiza%C3%A7%C3%A3o+de+Processos+Industriais" alt="Typing SVG" />
   </p>
 
   <!-- Badges de Status -->
@@ -25,7 +25,7 @@
 <!-- Linha divisória colorida neon -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-> 💡 **Nota do Autor:** Olá! Sou o **Brian**, tenho 22 anos, sou acadêmico de **Gestão da Produção Industrial (GPI)** na FATEC e atuo como jovem aprendiz na Engenharia de Processos da **Bosch Home Comfort**. **Não sou desenvolvedor de software de formação.** Meu universo é a gestão, otimização de processos industriais e análise de dados (Power BI e Excel). Criei este espaço para documentar meus primeiros passos no mundo dos Bancos de Dados, e mostrar um pouco das minhas primeiras análises de dados e dashboards. 🚀
+> 💡 **Nota do Autor:** Olá! Sou o **Brian**, tenho 22 anos, sou acadêmico de **Gestão da Produção Industrial (GPI)** na FATEC (atualmente no **1º Semestre**) e atuo como jovem aprendiz na Engenharia de Processos da **Bosch Home Comfort**. **Não sou desenvolvedor de software de formação.** Meu universo é a gestão, otimização de processos industriais e análise de dados (Power BI e Excel). Criei este espaço para documentar meus primeiros passos no mundo dos Bancos de Dados, e mostrar um pouco das minhas primeiras análises de dados e dashboards. 🚀
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
@@ -55,7 +55,7 @@ Mesmo focado na engenharia de processos, estou explorando as seguintes tecnologi
 
 ---
 
-## 🚀 Roadmap de Estudos
+## 🚀 Roadmap de Estudos (1º Semestre)
 
 Aqui está o meu roteiro de aprendizado para este semestre:
 
@@ -68,23 +68,45 @@ Aqui está o meu roteiro de aprendizado para este semestre:
 
 ---
 
-## 📸 Painel de Análises e Dashboards
+## 📸 Interface de Análises & Dashboards
 
-<div align="center">
-  <i>Aplicações práticas e visuais dos projetos integrados!</i><br><br>
-  
-  <h3>Apresentação em Grupo</h3>
-  <img src="https://github.com/user-attachments/assets/75515474-cac4-4926-8386-05af0b945808" width="800" alt="Apresentação em Grupo" />
-  
-  <br><br>
-  <h3>Análise de empresas de transporte multimodal</h3>
-  <img src="https://github.com/user-attachments/assets/9f7d4695-d5e0-4281-b5b6-f3f2c34b1310" width="400" alt="Transporte Multimodal 1" />
-  <img src="https://github.com/user-attachments/assets/fc856cfe-117e-455f-b595-c93be04d954b" width="400" alt="Transporte Multimodal 2" />
-  
-  <br><br>
-  <h3>Análise Dashboard</h3>
-  <img src="https://github.com/user-attachments/assets/60da7afa-629f-4ded-864e-73f71fdf7bd9" width="800" alt="Dashboard" />
-</div>
+> **⚡ SYSTEM ONLINE:** *Visualização de dados ativada. Carregando módulos de análise logística... Clique nas abas abaixo para expandir os relatórios.*
+
+<br>
+
+<details>
+  <summary><b>📂 MÓDULO 1: Apresentação em Grupo (Visão Geral)</b></summary>
+  <br>
+  <blockquote>
+    <i>Painel inicial contendo a imersão conceitual sobre a estrutura do nosso banco de dados.</i>
+  </blockquote>
+  <p align="center">
+    <img src="https://github.com/user-attachments/assets/75515474-cac4-4926-8386-05af0b945808" width="850" style="border-radius: 8px; border: 2px solid #005C84;" alt="Apresentação em Grupo" />
+  </p>
+</details>
+
+<details>
+  <summary><b>📂 MÓDULO 2: Análise de Empresas de Transporte Multimodal</b></summary>
+  <br>
+  <blockquote>
+    <i>Mapeamento e cruzamento de dados focados na eficiência do transporte multimodal, integrando diferentes modais logísticos para otimização de rotas e custos.</i>
+  </blockquote>
+  <p align="center">
+    <img src="https://github.com/user-attachments/assets/9f7d4695-d5e0-4281-b5b6-f3f2c34b1310" width="45%" style="border-radius: 8px; margin-right: 10px; border: 1px solid #316192;" alt="Transporte Multimodal 1" />
+    <img src="https://github.com/user-attachments/assets/fc856cfe-117e-455f-b595-c93be04d954b" width="45%" style="border-radius: 8px; border: 1px solid #316192;" alt="Transporte Multimodal 2" />
+  </p>
+</details>
+
+<details>
+  <summary><b>📂 MÓDULO 3: Dashboard Analítico (Business Intelligence)</b></summary>
+  <br>
+  <blockquote>
+    <i>A camada final do projeto: transformando tabelas e comandos SQL em inteligência de negócios. Uma visão clara dos KPIs estratégicos.</i>
+  </blockquote>
+  <p align="center">
+    <img src="https://github.com/user-attachments/assets/60da7afa-629f-4ded-864e-73f71fdf7bd9" width="850" style="border-radius: 8px; border: 2px solid #00FFFF;" alt="Dashboard BI" />
+  </p>
+</details>
 
 <br>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
@@ -108,8 +130,3 @@ Se você é da área de TI ou domina Banco de Dados e esbarrar neste repositóri
 <div align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="45" />
 </div>
-
-📬 **Conecte-se comigo:** [Meu LinkedIn](brian-luiz-503025214?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
-
-
-
