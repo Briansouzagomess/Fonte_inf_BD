@@ -10,8 +10,8 @@
 
 - 🎓 **Educação:** 22 anos, cursando **Gestão da Produção Industrial (GPI)** na **FATEC**.
 - 💼 **Experiência Atual:** Aprendiz na **Bosch Home Comfort**, aplicando conceitos de análise de dados no setor industrial.
-- 🎯 **Foco de Carreira:** Análise de Dados, BI (Business Intelligence) e Otimização de Processos.
-- 📊 **Especialidades:** Construção de dashboards interativos no **Power BI**, tratamento e automação de dados no **Excel**, além de extração e manipulação de bases de dados.
+- 🎯 **Foco de Carreira:** Melhoria continua, **otimização de processos**.
+- 📊 **Especialidades:** Centrado com foco no **Aprendizado**.
 
 ---
 
@@ -20,10 +20,7 @@
 <div align="left">
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
   <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</div>
+  
 
 ---
 
@@ -41,7 +38,7 @@
 | Projeto | Descrição | Tecnologias |
 | :--- | :--- | :--- |
 | ** Dashboard de Vendas e Operações** | Análise completa de indicadores de desempenho operacionais e financeiros. | Power BI, Excel, DAX |
-| ** Controle de Produção e Estoque** | Automação e tratamento de dados para otimização de fluxos industriais. | Excel Avançado, Power Query |
+| ** Controle de Produção e Estoque** | Automação e tratamento de dados para otimização de fluxos industriais. | Excel Avançado |
 
 ---
 
