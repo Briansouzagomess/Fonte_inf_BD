@@ -1,6 +1,6 @@
 <div align="center">
   
-  <h1>🗄️  Banco de Dados & </h1>
+  <h1>🗄️  Banco de Dados </h1>
   <p><i>Repositório acadêmico focado em Banco de Dados, Modelagem e Análise Relacional</i></p>
 
   <!-- Badges de Status -->
