@@ -1,5 +1,6 @@
 <div align="center">
-  <!-- Imagem Sci-Fi Nova -->
+  <!-- <img width="1024" height="434" alt="image" src="https://github.com/user-attachments/assets/c6fe8b61-8ec7-482c-b246-21c08f6de796" />
+ -->
   <img src="watermarked_img_4145219254846255509.jpg" alt="Capa Sci-Fi Banco de Dados" width="900" style="border-radius: 15px; box-shadow: 0 0 25px rgba(0, 191, 255, 0.8);"/>
   <br><br>
 
