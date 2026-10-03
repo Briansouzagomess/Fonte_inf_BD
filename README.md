@@ -1,5 +1,6 @@
 <div align="center">
-  <!-- <img width="1024" height="434" alt="image" src="https://github.com/user-attachments/assets/ff655448-b3e4-4ff4-a6c1-a3e2eacc50f6" />
+  <!-- <<img width="1024" height="434" alt="6b9c1b1a-ec8f-4bce-be7e-7a5f5bc5da71" src="https://github.com/user-attachments/assets/921e483e-ee21-4450-8af5-9ccebca1e72c" />
+" />
  -->
   <img src="watermarked_img_12455610438586471522.jpg" alt="Capa Banco de Dados Brian" width="900" style="border-radius: 15px; box-shadow: 0 0 20px rgba(0, 92, 132, 0.5);"/>
   <br><br>
