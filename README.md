@@ -1,7 +1,5 @@
-<div align="center">
-  <!-- Imagem de Banner Online (Funciona imediatamente sem precisar de uploads) -->
-  <img src="https://images.unsplash.com/photo-1558494949-ef010cbdcc31?q=80&w=1200&auto=format&fit=crop" alt="Capa Servidores" width="900" style="border-radius: 15px; box-shadow: 0 0 20px rgba(0, 92, 132, 0.5);"/>
-  <br><br>
+<img width="1024" height="434" alt="image" src="https://github.com/user-attachments/assets/2bbef1e4-9eb6-4b3e-ac32-a95fc7bdb4b2" />
+
 
   <h1>✨ 🗄️ Banco de Dados ✨</h1>
   
