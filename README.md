@@ -1,14 +1,14 @@
 <div align="center">
-  <!-- <img width="1024" height="434" alt="image" src="https://github.com/user-attachments/assets/c6fe8b61-8ec7-482c-b246-21c08f6de796" />
+  <!-- <img width="1024" height="434" alt="image" src="https://github.com/user-attachments/assets/ff655448-b3e4-4ff4-a6c1-a3e2eacc50f6" />
  -->
-  <img src="watermarked_img_4145219254846255509.jpg" alt="Capa Sci-Fi Banco de Dados" width="900" style="border-radius: 15px; box-shadow: 0 0 25px rgba(0, 191, 255, 0.8);"/>
+  <img src="watermarked_img_12455610438586471522.jpg" alt="Capa Banco de Dados Brian" width="900" style="border-radius: 15px; box-shadow: 0 0 20px rgba(0, 92, 132, 0.5);"/>
   <br><br>
 
   <h1>✨ 🗄️ Banco de Dados ✨</h1>
   
-  <!-- Subtítulo com Efeito de Digitação (Blinking/Typing) -->
+  <!-- Subtítulo com Efeito de Digitação -->
   <p>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Reposit%C3%B3rio+acad%C3%AAmico+focado+em+Banco+de+Dados;Modelagem+e+An%C3%A1lise+Relacional;Otimiza%C3%A7%C3%A3o+de+Processos+Industriais" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=005C84&center=true&vCenter=true&width=600&lines=Reposit%C3%B3rio+acad%C3%AAmico+focado+em+Banco+de+Dados;Modelagem+e+An%C3%A1lise+Relacional;Otimiza%C3%A7%C3%A3o+de+Processos+Industriais" alt="Typing SVG" />
   </p>
 
   <!-- Badges de Status -->
@@ -23,7 +23,7 @@
 
 <br>
 
-<!-- Linha divisória colorida neon -->
+<!-- Linha divisória colorida -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 > 💡 **Nota do Autor:** Olá! Sou o **Brian**, tenho 22 anos, sou acadêmico de **Gestão da Produção Industrial (GPI)** na FATEC (atualmente no **1º Semestre**) e atuo como jovem aprendiz na Engenharia de Processos da **Bosch Home Comfort**. **Não sou desenvolvedor de software de formação.** Meu universo é a gestão, otimização de processos industriais e análise de dados (Power BI e Excel). Criei este espaço para documentar meus primeiros passos no mundo dos Bancos de Dados, e mostrar um pouco das minhas primeiras análises de dados e dashboards. 🚀
