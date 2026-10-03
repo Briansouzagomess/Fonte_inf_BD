@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Imagem Sci-Fi Nova -->
-  <img src="" alt="Capa Sci-Fi Banco de Dados" width="900" style="border-radius: 15px; box-shadow: 0 0 25px rgba(0, 191, 255, 0.8);"/>
+  <img src="watermarked_img_4145219254846255509.jpg" alt="Capa Sci-Fi Banco de Dados" width="900" style="border-radius: 15px; box-shadow: 0 0 25px rgba(0, 191, 255, 0.8);"/>
   <br><br>
 
   <h1>✨ 🗄️ Banco de Dados ✨</h1>
@@ -47,6 +47,7 @@ Mesmo focado na engenharia de processos, estou explorando as seguintes tecnologi
 <div align="center">
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
   <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" />
   <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" />
 </div>
