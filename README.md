@@ -1,8 +1,7 @@
 <div align="center">
-  <!-- <<img width="1024" height="434" alt="6b9c1b1a-ec8f-4bce-be7e-7a5f5bc5da71" src="https://github.com/user-attachments/assets/921e483e-ee21-4450-8af5-9ccebca1e72c" />
-" />
- -->
-  <img src="watermarked_img_12455610438586471522.jpg" alt="Capa Banco de Dados Brian" width="900" style="border-radius: 15px; box-shadow: 0 0 20px rgba(0, 92, 132, 0.5);"/>
+  <!-- Imagem de Banner Online (Funciona imediatamente sem precisar de uploads) -->
+  <img src=<img width="1024" height="434" alt="image" src="https://github.com/user-attachments/assets/3d0312ff-dc3c-48b4-b542-88e0daacb09a" />
+
   <br><br>
 
   <h1>✨ 🗄️ Banco de Dados ✨</h1>
@@ -35,16 +34,16 @@
 
 Este repositório funciona como meu **caderno de laboratório digital** 🧪 para a matéria de Banco de Dados. A ideia é aplicar os conceitos técnicos ensinados em aula para resolver problemas práticos, conectando o universo da tecnologia com cenários logísticos e industriais que vivencio.
 
-### 📌 O que você vai encontrar aqui?
+### 📌 O que vai encontrar aqui?
 - 🗂️ **`Modelagem/`** Modelos conceituais e lógicos de bancos de dados (DER/MER).
 - 💻 **`Scripts_SQL/`** Comandos essenciais: DDL (criação de tabelas) e DML (consultas, inserções e atualizações).
 - 📊 **`Projetos/`** Casos de estudo práticos integrando dados de negócios (ex: logística e operações industriais).
 
 ---
 
-## 🛠️ Stack Tecnológica (Em Aprendizado)
+## 🛠️️ Stack Tecnológica (Em Aprendizado)
 
-Mesmo focado na engenharia de processos, estou explorando as seguintes tecnologias para manipular e estruturar dados:
+Mesmo focado na engenharia de processos, estou a explorar as seguintes tecnologias para manipular e estruturar dados:
 
 <div align="center">
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
@@ -116,9 +115,9 @@ Aqui está o meu roteiro de aprendizado para este semestre:
 
 ## 🤝 Feedbacks são bem-vindos!
 
-Se você é da área de TI ou domina Banco de Dados e esbarrar neste repositório, sinta-se à vontade para me dar dicas. Todo conhecimento que ajude a otimizar processos é muito bem-vindo!
+Se é da área de TI ou domina Banco de Dados e esbarrar neste repositório, sinta-se à vontade para me dar dicas. Todo o conhecimento que ajude a otimizar processos é muito bem-vindo!
 
-📬 **Conecte-se comigo:**
+📬 **Ligue-se a mim:**
 <br><br>
 <div align="center">
   <a href="https://www.linkedin.com/in/brian-luiz-503025214?utm_source=share_via&utm_content=profile&utm_medium=member_ios" target="_blank">
