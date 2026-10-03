@@ -1,5 +1,7 @@
-<img width="1024" height="434" alt="image" src="https://github.com/user-attachments/assets/a1dc2412-42ee-47ee-848f-7efc0bb85004" />
-
+<div align="center">
+  <!-- Imagem de Banner Online (Funciona imediatamente sem precisar de uploads) -->
+  <img src="https://images.unsplash.com/photo-1558494949-ef010cbdcc31?q=80&w=1200&auto=format&fit=crop" alt="Capa Servidores" width="900" style="border-radius: 15px; box-shadow: 0 0 20px rgba(0, 92, 132, 0.5);"/>
+  <br><br>
 
   <h1>✨ 🗄️ Banco de Dados ✨</h1>
   
@@ -20,12 +22,13 @@
 
 <br>
 
-<!-- Linha divisória colorida -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<!-- Linha divisória verde escuro -->
+<img src="https://placehold.co/1000x4/006400/006400.png" width="100%" height="4" alt="linha verde escuro">
 
 > 💡 **Nota do Autor:** Olá! Sou o **Brian**, tenho 22 anos, sou acadêmico de **Gestão da Produção Industrial (GPI)** na FATEC (atualmente no **1º Semestre**) e atuo como jovem aprendiz na Engenharia de Processos da **Bosch Home Comfort**. **Não sou desenvolvedor de software de formação.** Meu universo é a gestão, otimização de processos industriais e análise de dados (Power BI e Excel). Criei este espaço para documentar meus primeiros passos no mundo dos Bancos de Dados, e mostrar um pouco das minhas primeiras análises de dados e dashboards. 🚀
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<!-- Linha divisória verde escuro -->
+<img src="https://placehold.co/1000x4/006400/006400.png" width="100%" height="4" alt="linha verde escuro">
 
 ## 🎯 Sobre o Projeto
 
@@ -38,7 +41,7 @@ Este repositório funciona como meu **caderno de laboratório digital** 🧪 par
 
 ---
 
-## 🛠️️ Stack Tecnológica (Em Aprendizado)
+## 🛠 Stack Tecnológica (Em Aprendizado)
 
 Mesmo focado na engenharia de processos, estou a explorar as seguintes tecnologias para manipular e estruturar dados:
 
@@ -108,7 +111,8 @@ Aqui está o meu roteiro de aprendizado para este semestre:
 </details>
 
 <br>
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<!-- Linha divisória verde escuro -->
+<img src="https://placehold.co/1000x4/006400/006400.png" width="100%" height="4" alt="linha verde escuro">
 
 ## 🤝 Feedbacks são bem-vindos!
 
