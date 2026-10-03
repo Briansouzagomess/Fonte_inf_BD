@@ -1,8 +1,5 @@
-<div align="center">
-  <!-- Imagem de Banner Online (Funciona imediatamente sem precisar de uploads) -->
-  <img src=<img width="1024" height="434" alt="image" src="https://github.com/user-attachments/assets/3d0312ff-dc3c-48b4-b542-88e0daacb09a" />
+<img width="1024" height="434" alt="image" src="https://github.com/user-attachments/assets/a1dc2412-42ee-47ee-848f-7efc0bb85004" />
 
-  <br><br>
 
   <h1>✨ 🗄️ Banco de Dados ✨</h1>
   
