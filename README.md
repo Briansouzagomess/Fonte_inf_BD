@@ -101,7 +101,7 @@ Aqui está o meu roteiro de aprendizado para este semestre:
   <summary><b>📂 MÓDULO 3: Dashboard Analítico (Business Intelligence)</b></summary>
   <br>
   <blockquote>
-    <i>A camada final do projeto: transformando tabelas e comandos SQL em inteligência de negócios. Uma visão clara dos KPIs estratégicos.</i>
+    <i> Business Intelligence desenvolvido no Power BI.</i>
   </blockquote>
   <p align="center">
     <img src="https://github.com/user-attachments/assets/60da7afa-629f-4ded-864e-73f71fdf7bd9" width="850" style="border-radius: 8px; border: 2px solid #00FFFF;" alt="Dashboard BI" />
