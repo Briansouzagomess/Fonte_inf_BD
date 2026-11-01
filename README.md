@@ -132,7 +132,8 @@ Nesta seção estão os projetos de visualização de dados e dashboards desenvo
 
 O Excel é uma ferramenta importante para organizar dados, construir gráficos e realizar análises estatísticas. Nesta seção, apresento estudos desenvolvidos para investigar relações entre variáveis e interpretar resultados.
 
- <summary><b>🚚 Projeto 01 — Análise de Transporte Multimodal</b></summary>
+<details>
+  <summary><b>🚚 Projeto 01 — Análise de Transporte Multimodal</b></summary>>
 
   <br>
 
@@ -150,15 +151,17 @@ O Excel é uma ferramenta importante para organizar dados, construir gráficos e
 <details>
   <summary><b>📉 Projeto 02 — Horas de Estudo x Notas em Provas</b></summary>
 
+Analise linear simples
   <br>
 
   **Ferramenta:** Microsoft Excel
 
   **Tipo de análise:** gráfico de dispersão e regressão linear simples.
 
-  ### 🎯 Objetivo
+  ### 🎯 Objetivo: Investigar se existe uma relação entre a quantidade de horas estudadas e as notas obtidas pelos estudantes.
 
-  Investigar se existe uma relação entre a quantidade de horas estudadas e as notas obtidas pelos estudantes.
+  <img width="1126" height="772" alt="image" src="https://github.com/user-attachments/assets/a66d140d-4ae9-4c4a-a442-e1cc9a881fd0" />
+
 
   ### 🔎 O que foi realizado
 
