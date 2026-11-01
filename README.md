@@ -20,7 +20,7 @@
 
 <br>
 
-<img src="https://placehold.co/1000x4/006400/006400.png" width="100%" height="4" alt="Divisória" />
+<img src="https://placehold.co/1000x4/006400/006400.png" width="100%" height="4" alt="Divisória verde" />
 
 ## 👋 Sobre mim
 
@@ -34,7 +34,7 @@ Não sou desenvolvedor de software de formação. Meu foco está na gestão, na 
 
 Este portfólio está em constante evolução, acompanhando meu aprendizado e os novos projetos que desenvolvo. 🚀
 
-<img src="https://placehold.co/1000x4/006400/006400.png" width="100%" height="4" alt="Divisória" />
+<img src="https://placehold.co/1000x4/006400/006400.png" width="100%" height="4" alt="Divisória verde" />
 
 ## 🧭 O que você encontrará aqui?
 
@@ -66,10 +66,25 @@ Utilizo essas ferramentas para explorar dados, organizar informações, criar vi
 
 # 📊 Projetos em Power BI
 
-Nesta seção estão os projetos de visualização de dados e dashboards desenvolvidos para transformar conjuntos de informações em apresentações visuais mais fáceis de interpretar.
+Nesta seção estão os dashboards desenvolvidos para transformar dados em informações visuais, facilitar comparações e ajudar na interpretação de indicadores.
 
 <details>
-  <summary><b>🌍 Projeto 01 — Dashboard de Expectativa de Vida</b></summary>
+  <summary><b>📈 Projeto 01 — Dashboard de Indicadores e Análise de Desempenho</b></summary>
+
+  <br>
+
+  **Ferramenta:** Microsoft Power BI
+
+  **Objetivo:** apresentar indicadores em um painel visual, facilitando o acompanhamento e a interpretação das informações.
+
+  <p align="center">
+    <img src="https://github.com/user-attachments/assets/60da7afa-629f-4ded-864e-73f71fdf7bd9" width="100%" alt="Dashboard de indicadores e análise de desempenho desenvolvido no Power BI" />
+  </p>
+
+</details>
+
+<details>
+  <summary><b>🌍 Projeto 02 — Dashboard de Expectativa de Vida</b></summary>
 
   <br>
 
@@ -81,30 +96,13 @@ Nesta seção estão os projetos de visualização de dados e dashboards desenvo
   - Evolução da expectativa de vida por ano.
   - Comparação entre países.
   - Diferenças entre regiões.
-  - Apresentação visual dos indicadores para facilitar a interpretação.
+  - Visualização dos indicadores para facilitar a interpretação dos dados.
 
   <p align="center">
     <img src="https://github.com/user-attachments/assets/3046c8de-677e-4255-9ea7-e55116ca61db" width="100%" alt="Dashboard de expectativa de vida desenvolvido no Power BI" />
   </p>
 
   **Fonte dos dados:** [Our World in Data — Life Expectancy](https://ourworldindata.org/grapher/life-expectancy)
-
-</details>
-
-<details>
-  <summary><b>📈 Projeto 02 — Dashboard de Indicadores e Análise de Desempenho</b></summary>
-
-  <br>
-
-  **Ferramenta:** Power BI
-
-  **Objetivo:** organizar indicadores em um painel visual para facilitar o acompanhamento e a interpretação das informações.
-
-  <p align="center">
-    <img src="https://github.com/user-attachments/assets/60da7afa-629f-4ded-864e-73f71fdf7bd9" width="100%" alt="Dashboard de indicadores e análise de desempenho" />
-  </p>
-
-  *A descrição específica dos indicadores pode ser ampliada conforme o conteúdo apresentado no dashboard.*
 
 </details>
 
@@ -115,7 +113,7 @@ Nesta seção estão os projetos de visualização de dados e dashboards desenvo
 O Excel é uma ferramenta importante para organizar dados, construir gráficos e realizar análises estatísticas. Nesta seção, apresento estudos desenvolvidos para investigar relações entre variáveis e interpretar resultados.
 
 <details>
-  <summary><b>🚚 Projeto 01 — Análise de Transporte Multimodal</b></summary>>
+  <summary><b>🚚 Projeto 01 — Análise de Transporte Multimodal</b></summary>
 
   <br>
 
@@ -128,22 +126,26 @@ O Excel é uma ferramenta importante para organizar dados, construir gráficos e
     <img src="https://github.com/user-attachments/assets/fc856cfe-117e-455f-b595-c93be04d954b" width="49%" alt="Projeto de transporte multimodal — imagem 2" />
   </p>
 
-  *As imagens documentam o trabalho apresentado. A classificação como dashboard de Power BI deve ser mantida apenas se o projeto tiver sido efetivamente desenvolvido nessa ferramenta.*
+  *As imagens documentam o trabalho apresentado. A ferramenta utilizada deve ser identificada de acordo com o desenvolvimento real do projeto.*
+
+</details>
 
 <details>
   <summary><b>📉 Projeto 02 — Horas de Estudo x Notas em Provas</b></summary>
 
-Analise linear simples
   <br>
 
   **Ferramenta:** Microsoft Excel
 
   **Tipo de análise:** gráfico de dispersão e regressão linear simples.
 
-  ### 🎯 Objetivo: Investigar se existe uma relação entre a quantidade de horas estudadas e as notas obtidas pelos estudantes.
+  ### 🎯 Objetivo
 
-  <img width="1126" height="772" alt="image" src="https://github.com/user-attachments/assets/a66d140d-4ae9-4c4a-a442-e1cc9a881fd0" />
+  Investigar se existe uma relação entre a quantidade de horas estudadas e as notas obtidas pelos estudantes.
 
+  <p align="center">
+    <img width="100%" alt="Análise de horas estudadas e notas no Excel" src="https://github.com/user-attachments/assets/a66d140d-4ae9-4c4a-a442-e1cc9a881fd0" />
+  </p>
 
   ### 🔎 O que foi realizado
 
@@ -157,22 +159,14 @@ Analise linear simples
 
   **Estudantes que estudam por mais horas tendem a obter notas maiores?**
 
-  A regressão linear ajuda a identificar a direção da relação entre as variáveis e a estimar uma tendência. A conclusão deve considerar os resultados calculados, e não apenas a aparência do gráfico.
+  A regressão linear ajuda a identificar a direção da relação entre as variáveis e a estimar uma tendência. A interpretação deve considerar os resultados estatísticos, sem confundir associação com causalidade.
 
   ### 📊 Resultados
 
-  - **Direção da relação:** preencher após conferir o coeficiente angular.
-  - **Equação da reta:** adicionar a equação apresentada no Excel.
-  - **Coeficiente de determinação (R²):** adicionar o valor calculado.
-  - **Conclusão:** descrever o que os resultados realmente indicam.
-
-  <!--
-  Para adicionar a imagem do Excel, substitua o comentário por:
-
-  <p align="center">
-    <img src="LINK_DA_IMAGEM_DO_EXCEL" width="90%" alt="Gráfico de dispersão e regressão linear entre horas estudadas e notas" />
-  </p>
-  -->
+  - **Direção da relação:** verificar o sinal do coeficiente angular.
+  - **Equação da reta:** registrar a equação apresentada no Excel.
+  - **Coeficiente de determinação (R²):** registrar o valor calculado.
+  - **Conclusão:** interpretar os resultados obtidos.
 
   **Base de dados:** [Student Exam Scores — GitHub](https://github.com/Sainathmudigonda/Student-Result-Analysis)
 
@@ -182,7 +176,7 @@ Analise linear simples
 
 # 🐍 Projetos no Google Colab
 
-Nesta seção estão as análises realizadas em ambiente de notebook, com o objetivo de aplicar conceitos estatísticos e comparar resultados com ferramentas de uso cotidiano.
+Nesta seção estão as análises realizadas em notebooks, utilizando Python para aplicar conceitos estatísticos e comparar resultados com ferramentas como o Excel.
 
 <details>
   <summary><b>🧮 Projeto 01 — Regressão Linear com Python</b></summary>
@@ -212,12 +206,12 @@ Nesta seção estão as análises realizadas em ambiente de notebook, com o obje
 
   | Indicador | Excel | Google Colab |
   |---|---|---|
-  | Coeficiente angular | Preencher com o resultado | Preencher com o resultado |
-  | Intercepto | Preencher com o resultado | Preencher com o resultado |
-  | R² | Preencher com o resultado | Preencher com o resultado |
-  | Conclusão | Interpretar os resultados | Verificar se a interpretação coincide |
+  | Coeficiente angular | Inserir resultado | Inserir resultado |
+  | Intercepto | Inserir resultado | Inserir resultado |
+  | R² | Inserir resultado | Inserir resultado |
+  | Conclusão | Interpretar os resultados | Comparar com o Excel |
 
-  **Notebook:** adicione aqui o link do seu Google Colab quando ele estiver salvo e compartilhável.
+  **Notebook:** adicione o link do Google Colab depois de salvar e configurar o compartilhamento.
 
 </details>
 
@@ -255,7 +249,7 @@ Além das análises de dados, este repositório também reúne trabalhos realiza
   - Consultas e manipulação de dados.
   - Utilização dos dados em análises e visualizações.
 
-  Este espaço pode ser utilizado para reunir exercícios, materiais e outros projetos da disciplina conforme forem concluídos.
+  Este espaço pode reunir exercícios, materiais e outros projetos da disciplina conforme forem concluídos.
 
 </details>
 
@@ -268,9 +262,9 @@ Quero continuar ampliando meus conhecimentos e desenvolver projetos que aproxime
 - [x] Organizar meu repositório de estudos.
 - [x] Desenvolver projetos acadêmicos e apresentações.
 - [x] Criar visualizações de dados e dashboards.
-- [x] Explorar regressão linear com horas estudadas e notas.
-- [ ] Documentar os resultados numéricos da regressão linear.
-- [ ] Publicar o notebook do Google Colab.
+- [x] Desenvolver uma análise de regressão linear com horas estudadas e notas.
+- [ ] Registrar os resultados numéricos da regressão linear.
+- [ ] Adicionar o link do notebook do Google Colab.
 - [ ] Desenvolver novos dashboards e análises.
 - [ ] Aplicar análise de dados a problemas de logística e processos industriais.
 
