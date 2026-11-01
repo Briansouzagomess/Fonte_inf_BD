@@ -108,24 +108,6 @@ Nesta seção estão os projetos de visualização de dados e dashboards desenvo
 
 </details>
 
-<details>
-  <summary><b>🚚 Projeto 03 — Análise de Transporte Multimodal</b></summary>
-
-  <br>
-
-  **Tema:** logística e transporte multimodal.
-
-  **Objetivo:** apresentar um estudo relacionado ao setor de transporte multimodal, conectando informações ao contexto logístico.
-
-  <p align="center">
-    <img src="https://github.com/user-attachments/assets/9f7d4695-d5e0-4281-b5b6-f3f2c34b1310" width="49%" alt="Projeto de transporte multimodal — imagem 1" />
-    <img src="https://github.com/user-attachments/assets/fc856cfe-117e-455f-b595-c93be04d954b" width="49%" alt="Projeto de transporte multimodal — imagem 2" />
-  </p>
-
-  *As imagens documentam o trabalho apresentado. A classificação como dashboard de Power BI deve ser mantida apenas se o projeto tiver sido efetivamente desenvolvido nessa ferramenta.*
-
-</details>
-
 ---
 
 # 📗 Projetos em Excel
