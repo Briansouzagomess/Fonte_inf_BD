@@ -107,7 +107,6 @@ Aqui está o meu roteiro de aprendizado para este semestre:
     <img src="https://github.com/user-attachments/assets/60da7afa-629f-4ded-864e-73f71fdf7bd9" width="850" style="border-radius: 8px; border: 2px solid #00FFFF;" alt="Dashboard BI" />
   </p>
 </details>
-
 <br>
 <!-- Linha divisória verde escuro -->
 <details>
