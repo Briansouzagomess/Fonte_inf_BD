@@ -110,6 +110,17 @@ Aqui está o meu roteiro de aprendizado para este semestre:
 
 <br>
 <!-- Linha divisória verde escuro -->
+<details>
+  <summary><b>📂 MÓDULO 4: Dashboard- Expectativa de Vida</b></summary>
+  <br>
+  <blockquote>
+    <i>Painel de Business Intelligence desenvolvido no Power BI aplicando técnicas avançadas de UX/UI, hierarquia visual e storytelling com cores para análise comparativa global.</i>
+  </blockquote>
+  <p align="center">
+    <img src="<img width="1456" height="747" alt="image" src="https://github.com/user-attachments/assets/3046c8de-677e-4255-9ea7-e55116ca61db" />
+" width="850" style="border-radius: 8px; border: 2px solid #2463EB;" alt="Dashboard Expectativa de Vida" />
+  </p>
+</details>
 <img src="https://placehold.co/1000x4/006400/006400.png" width="100%" height="4" alt="linha verde escuro">
 
 ## 🤝 Feedbacks são bem-vindos!
