@@ -112,7 +112,7 @@ Aqui está o meu roteiro de aprendizado para este semestre:
   <summary><b>📂 MÓDULO 4: Dashboard Executivo - Expectativa de Vida</b></summary>
   <br>
   <blockquote>
-    <i>Painel de Business Intelligence desenvolvido no Power BI aplicando técnicas avançadas de UX/UI, hierarquia visual e storytelling com cores para análise comparativa global.</i>
+    <i>Painel de Business Intelligence desenvolvido no Power BI comparando a expectativa de vida do Brasil com outros países.</i>
   </blockquote>
   <p align="center">
     <img src="https://github.com/user-attachments/assets/3046c8de-677e-4255-9ea7-e55116ca61db" width="850" style="border-radius: 8px; border: 2px solid #2463EB;" alt="Dashboard Expectativa de Vida" />
