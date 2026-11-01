@@ -1,3 +1,5 @@
+<img width="1024" height="434" alt="image" src="https://github.com/user-attachments/assets/2bbef1e4-9eb6-4b3e-ac32-a95fc7bdb4b2" />
+
 <div align="center">
   <h1>✨ 🗄️ Banco de Dados ✨</h1>
   
