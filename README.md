@@ -190,6 +190,9 @@ Nesta seção estão as análises realizadas em notebooks, utilizando Python par
   ### 🎯 Objetivo
 
   Reproduzir a análise de horas estudadas versus notas utilizando Python e comparar os resultados com o modelo criado no Excel.
+  
+  <img width="792" height="676" alt="image" src="https://github.com/user-attachments/assets/dcfabf77-1997-4d1f-98d5-e99ff414ba2e" />
+
 
   ### 🔎 Etapas da análise
 
