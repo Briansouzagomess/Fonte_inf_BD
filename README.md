@@ -1,6 +1,4 @@
-<img width="1024" height="434" alt="image" src="https://github.com/user-attachments/assets/2bbef1e4-9eb6-4b3e-ac32-a95fc7bdb4b2" />
-
-
+<div align="center">
   <h1>✨ 🗄️ Banco de Dados ✨</h1>
   
   <!-- Subtítulo com Efeito de Digitação -->
@@ -107,19 +105,20 @@ Aqui está o meu roteiro de aprendizado para este semestre:
     <img src="https://github.com/user-attachments/assets/60da7afa-629f-4ded-864e-73f71fdf7bd9" width="850" style="border-radius: 8px; border: 2px solid #00FFFF;" alt="Dashboard BI" />
   </p>
 </details>
-<br>
-<!-- Linha divisória verde escuro -->
+
 <details>
-  <summary><b>📂 MÓDULO 4: Dashboard- Expectativa de Vida</b></summary>
+  <summary><b>📂 MÓDULO 4: Dashboard Executivo - Expectativa de Vida</b></summary>
   <br>
   <blockquote>
     <i>Painel de Business Intelligence desenvolvido no Power BI aplicando técnicas avançadas de UX/UI, hierarquia visual e storytelling com cores para análise comparativa global.</i>
   </blockquote>
   <p align="center">
-    <img src="<img width="1456" height="747" alt="image" src="https://github.com/user-attachments/assets/3046c8de-677e-4255-9ea7-e55116ca61db" />
-" width="850" style="border-radius: 8px; border: 2px solid #2463EB;" alt="Dashboard Expectativa de Vida" />
+    <img src="https://github.com/user-attachments/assets/3046c8de-677e-4255-9ea7-e55116ca61db" width="850" style="border-radius: 8px; border: 2px solid #2463EB;" alt="Dashboard Expectativa de Vida" />
   </p>
 </details>
+
+<br>
+<!-- Linha divisória verde escuro -->
 <img src="https://placehold.co/1000x4/006400/006400.png" width="100%" height="4" alt="linha verde escuro">
 
 ## 🤝 Feedbacks são bem-vindos!
