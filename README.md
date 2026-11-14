@@ -199,6 +199,8 @@ Nesta seção estão as análises realizadas em notebooks, utilizando Python par
 
   **Bibliotecas:** pandas, matplotlib e scikit-learn.
 
+<details>
+  <summary><b>🧮 Projeto 02 — Regressão Linear com Python</b></summary>
   ### 🎯 Objetivo
 
   Reproduzir a análise de horas da relação entre a idade que as mulheres e os homens casam.
