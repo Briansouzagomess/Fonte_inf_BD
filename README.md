@@ -55,7 +55,6 @@ Este portfólio está em constante evolução, acompanhando meu aprendizado e os
 <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" />
 <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black" alt="Google Colab" />
 
-
 </div>
 
 Utilizo essas ferramentas para explorar dados, organizar informações, criar visualizações e desenvolver análises que ajudem a compreender diferentes situações.
@@ -177,7 +176,7 @@ O Excel é uma ferramenta importante para organizar dados, construir gráficos e
 Nesta seção estão as análises realizadas em notebooks, utilizando Python para aplicar conceitos estatísticos e comparar resultados com ferramentas como o Excel.
 
 <details>
-  <summary><b>🧮 Projeto 01 — Regressão Linear com Python</b></summary>
+  <summary><b>🧮 Projeto 01 — Regressão Linear com Python (Horas de Estudo x Notas)</b></summary>
 
   <br>
 
@@ -188,10 +187,15 @@ Nesta seção estão as análises realizadas em notebooks, utilizando Python par
   ### 🎯 Objetivo
 
   Reproduzir a análise de horas estudadas versus notas utilizando Python e comparar os resultados com o modelo criado no Excel.
-  
-  <img width="792" height="676" alt="image" src="https://github.com/user-attachments/assets/dcfabf77-1997-4d1f-98d5-e99ff414ba2e" />
 
- <summary><b>🧮 Projeto 02 — Regressão Linear com Python</b></summary>
+  <p align="center">
+    <img width="792" height="676" alt="Gráfico de regressão linear de horas estudadas vs notas no Python" src="https://github.com/user-attachments/assets/dcfabf77-1997-4d1f-98d5-e99ff414ba2e" />
+  </p>
+
+</details>
+
+<details>
+  <summary><b>🧮 Projeto 02 — Regressão Linear com Python (Nupcialidade SEADE)</b></summary>
 
   <br>
 
@@ -199,23 +203,20 @@ Nesta seção estão as análises realizadas em notebooks, utilizando Python par
 
   **Bibliotecas:** pandas, matplotlib e scikit-learn.
 
-<details>
-  <summary><b>🧮 Projeto 02 — Regressão Linear com Python</b></summary>
+  **Banco de dados:** [Repositório SEADE — Nupcialidade](https://repositorio.seade.gov.br/dataset/seade-nupcialidade)
+
   ### 🎯 Objetivo
 
-  Reproduzir a análise de horas da relação entre a idade que as mulheres e os homens casam.
+  Analisar a relação entre a idade com que as mulheres e os homens se casam utilizando regressão linear em Python.
 
-  <img width="1487" height="773" alt="image" src="https://github.com/user-attachments/assets/7bfd6720-9dae-4e9c-b525-20c702c09a08" />
-
-  **Ferramenta:** Google Colab
-
-  **Banco de dados:** https://repositorio.seade.gov.br/dataset/seade-nupcialidade
-
+  <p align="center">
+    <img width="1487" height="773" alt="Gráfico de regressão linear da base SEADE Nupcialidade no Python" src="https://github.com/user-attachments/assets/7bfd6720-9dae-4e9c-b525-20c702c09a08" />
+  </p>
 
   ### 🔎 Etapas da análise
 
   - Carregamento e preparação da base de dados.
-  - Seleção das variáveis horas estudadas e nota da prova.
+  - Seleção das variáveis de interesse.
   - Ajuste de um modelo de regressão linear.
   - Cálculo dos valores estimados.
   - Avaliação do coeficiente angular e do R².
