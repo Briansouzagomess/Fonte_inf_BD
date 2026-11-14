@@ -191,6 +191,24 @@ Nesta seção estão as análises realizadas em notebooks, utilizando Python par
   
   <img width="792" height="676" alt="image" src="https://github.com/user-attachments/assets/dcfabf77-1997-4d1f-98d5-e99ff414ba2e" />
 
+ <summary><b>🧮 Projeto 02 — Regressão Linear com Python</b></summary>
+
+  <br>
+
+  **Ferramenta:** Google Colab
+
+  **Bibliotecas:** pandas, matplotlib e scikit-learn.
+
+  ### 🎯 Objetivo
+
+  Reproduzir a análise de horas da relação entre a idade que as mulheres e os homens casam.
+
+  <img width="1487" height="773" alt="image" src="https://github.com/user-attachments/assets/7bfd6720-9dae-4e9c-b525-20c702c09a08" />
+
+  **Ferramenta:** Google Colab
+
+  **Banco de dados:** https://repositorio.seade.gov.br/dataset/seade-nupcialidade
+
 
   ### 🔎 Etapas da análise
 
